@@ -1,9 +1,9 @@
 {
-  "homepage": "https://Erdpm-ji.github.io/Crypto_Place",
-  "name": "cryptoplace",
-  "private": true,
+  "name": "Crypto_Place",
   "version": "0.0.0",
+  "private": true,
   "type": "module",
+  "homepage": "https://Erdpm-ji.github.io/Crypto_Place",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
